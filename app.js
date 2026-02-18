@@ -1,7 +1,7 @@
 (() => {
   const { useState } = React;
 
-  const WEATHERSTACK_API_KEY = "efkjajnf24234qrasmfcq3t5w4t5";
+  const WEATHERSTACK_API_KEY = "1cee5c8e707fea1915ec5eb0e51ee169";
   const BASE_URL = "http://api.weatherstack.com";
 
   const VIEWS = {
